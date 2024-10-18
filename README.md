@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **on a remote internship where I’m gaining hands-on experience with full-stack development.**
 
-- 🌱 I’m currently learning **MERN stack and Frameworks**
+- 🌱 I’m currently learning **MERN stack and related Frameworks.**
 
 - 👯 I’m looking to collaborate on **Open-source projects, Web development initiatives, MERN stack applications.**
 
