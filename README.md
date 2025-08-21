@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robel-ermiyas" alt="robel-ermiyas" /></a> </p>
 
-- 🌱 I’m currently learnig about **Data and ML**
+- 🌱 I’m currently specializing in **Data and AI**
 
 - 👯 I’m looking to collaborate on **Open-source projects, Web development initiatives**
 
