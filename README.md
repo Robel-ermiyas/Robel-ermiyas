@@ -13,7 +13,7 @@
 > 🎓 Software Engineering student specializing in **Data Engineering & Analytics**  
 > 💼 Skilled in designing end-to-end data pipelines, data warehousing, and data visualization solutions  
 > 🚀 Passionate about turning raw data into actionable insights  
-> 🧠 Also exploring **Machine Learning** (Supervised & Unsupervised techniques)  
+> 🧠 Also exploring **Machine Learning** 
 > 📫 Reach me at: [robelermiyas7@gmail.com](mailto:robelermiyas@gmail.com)
 
 ---
