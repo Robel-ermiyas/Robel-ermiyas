@@ -1,34 +1,32 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1fnW/giphy.gif" width="60" alt="Animated Hello">
   <h1 align="center" style="margin-top: 5px;">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35" alt="waving-hand"/>
     Hello there! I'm...
   </h1>
+  
+  <h2 align="center" style="margin-top: 5px; margin-bottom: 5px;">
+  <span style="
+    /* Maximum visual size and weight */
+    font-size: 5.5em; 
+    font-weight: 900; 
+    letter-spacing: 7px; /* Widest spacing for the gradient to show */
+    line-height: 1.0; "
+  
+  ROBEL ERMIYAS
+  </span>
+</h2>
 
-  <h2 align="center">
-    <span style="
-      font-size: 4em; 
-      font-weight: 900; 
-      letter-spacing: 2px;
-      background: linear-gradient(90deg, #FFD700, #FF5733, #00BFFF); /* Gold, Red-Orange, Blue */
-      -webkit-background-clip: text; 
-      color: transparent;
-      line-height: 1.1;
-    ">
-      ROBEL ERMIYAS
-    </span>
-  </h2>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=RobelErmiyas&style=flat-square&color=FF5733&label=Profile+Hits" alt="Profile views" />
-  </p>
-  
   <p align="center" style="margin-top: 20px;">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Building+the+Future;SWE+Student+%7C+Always+Learning;" 
+      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Building+the+Future;SWE+Student+%7C+Always+Learning" 
       alt="Typing SVG" 
     />
   </p>
+
 </div>
+
+---
 
 ---
 ## About Me
@@ -149,6 +147,9 @@
   </a>
 </div>
 
----
-
-> *"Data is the new oil — but only if you can refine it."*
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=2000&color=FFD700&center=true&vCenter=true&width=750&lines=*%22Data+is+the+new+oil+%E2%80%94+but+only+if+you+can+refine+it.%22*" 
+    alt="Animated Quote" 
+  />
+</div>
