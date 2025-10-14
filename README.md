@@ -1,24 +1,127 @@
-<h1 align="center">Hi 👋, I'm Robel </h1>
-<h3 align="center">A passionate fourth year software engineering student from Ethiopia.</h3>
+# 👋 **Hello there, I'm Robel Ermiyas 👨‍💻**  
+***Data Engineer & SWE student @ AASTU***
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robel-ermiyas&label=Profile%20views&color=0e75b6&style=flat" alt="robel-ermiyas" /> </p>
+<!-- ![Profile Banner](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif) -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robel-ermiyas" alt="robel-ermiyas" /></a> </p>
+<div align="center" style="display: flex; gap: 24px; justify-content: center;">
+  <img src="https://komarev.com/ghpvc/?username=RobelErmiyas" alt="Profile views" height="28" />
+</div>
 
-- 🌱 I’m currently specializing in **Data and AI**
+## About Me
 
-- 👯 I’m looking to collaborate on **Open-source projects, Web development initiatives**
+> 🌍 Based in Addis Ababa, Ethiopia  
+> 🎓 Software Engineering student specializing in **Data Engineering & Analytics**  
+> 💼 Skilled in designing end-to-end data pipelines, data warehousing, and data visualization solutions  
+> 🚀 Passionate about turning raw data into actionable insights  
+> 🧠 Also exploring **Machine Learning** (Supervised & Unsupervised techniques)  
+> 📫 Reach me at: [robelermiyas7@gmail.com](mailto:robelermiyas@gmail.com)
 
-- 📫 How to reach me **robelermiyas7@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/robel-ermiyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/robel-ermiyas" height="30" width="40" /></a>
-</p>
+<table><tr><td align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+## 🚀 Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robel-ermiyas&show_icons=true&locale=en&layout=compact" alt="robel-ermiyas" /></p>
+<table>
+  <tr>
+    <td><b>Programming Languages 💻</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robel-ermiyas&show_icons=true&locale=en" alt="robel-ermiyas" /></p>
+  <tr>
+    <td><b>Data Analysis 📊</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Visualization 📈</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/Seaborn-3795D2?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases 🗄️</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Data Warehousing 🏗️</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ETL%20%7C%20ELT-009688?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Workflow Orchestration ⚙️</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Cloud ☁️</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Development Environments 💼</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Machine Learning 🤖</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Supervised%20Learning-3C873A?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Unsupervised%20Learning-2196F3?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobelErmiyas&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Robel's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobelErmiyas&theme=gotham&hide_border=false" alt="Robel's Streak" height="180" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center" style="display: flex; gap: 12px; justify-content: center;">
+  <a href="https://www.linkedin.com/in/robel-ermiyas/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36" />
+  </a>
+  <a href="mailto:robelermiyas7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="36" />
+  </a>
+</div>
+
+---
+
+> *Data is the new oil — but only if you can refine it.*
