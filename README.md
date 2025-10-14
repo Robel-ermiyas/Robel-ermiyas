@@ -1,11 +1,36 @@
-# 👋 **Hello there, I'm Robel Ermiyas 👨‍💻**  
-***Data Engineer & SWE student @ AASTU***
-
-<!-- ![Profile Banner](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif) -->
-
-<div align="center" style="display: flex; gap: 24px; justify-content: center;">
-  <img src="https://komarev.com/ghpvc/?username=RobelErmiyas" alt="Profile views" height="28" />
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1fnW/giphy.gif" width="60" alt="Animated Hello">
+  
+  <h1 align="center">
+    Hi there! I'm...
+  </h1>
+  
+  <h2 align="center">
+    <span style="
+      font-size: 3em; 
+      font-weight: 800; 
+      background: linear-gradient(90deg, #FF6B6B, #53A8FF, #48CCCD);
+      -webkit-background-clip: text; 
+      color: transparent;
+      line-height: 1.2;
+    ">
+      Robel Ermiyas
+    </span>
+  </h2>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=RobelErmiyas&style=for-the-badge&color=8A2BE2" alt="Profile views" />
+  </p>
+  
+  <p align="center">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Building+the+Future;SWE+Student+%7C+Always+Learning;Machine+Learning+Explorer" 
+      alt="Typing SVG" 
+    />
+  </p>
 </div>
+
+---
 
 ## About Me
 
@@ -13,7 +38,7 @@
 > 🎓 Software Engineering student specializing in **Data Engineering & Analytics**  
 > 💼 Skilled in designing end-to-end data pipelines, data warehousing, and data visualization solutions  
 > 🚀 Passionate about turning raw data into actionable insights  
-> 🧠 Also exploring **Machine Learning** 
+> 🧠 Also exploring **Machine Learning** (Supervised & Unsupervised techniques)  
 > 📫 Reach me at: [robelermiyas7@gmail.com](mailto:robelermiyas@gmail.com)
 
 ---
@@ -117,6 +142,9 @@
   <a href="https://www.linkedin.com/in/robel-ermiyas/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36" />
   </a>
+  <a href="https://t.me/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="36" />
+  </a>
   <a href="mailto:robelermiyas7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="36" />
   </a>
@@ -124,4 +152,4 @@
 
 ---
 
-> *Data is the new oil — but only if you can refine it.*
+> *"Data is the new oil — but only if you can refine it."*
