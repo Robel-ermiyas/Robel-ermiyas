@@ -1,37 +1,36 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1fnW/giphy.gif" width="60" alt="Animated Hello">
-  
-  <h1 align="center">
-    Hi there! I'm...
+  <h1 align="center" style="margin-top: 5px;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35" alt="waving-hand"/>
+    Hello there! I'm...
   </h1>
-  
+
   <h2 align="center">
     <span style="
-      font-size: 3em; 
-      font-weight: 800; 
-      background: linear-gradient(90deg, #FF6B6B, #53A8FF, #48CCCD);
+      font-size: 4em; 
+      font-weight: 900; 
+      letter-spacing: 2px;
+      background: linear-gradient(90deg, #FFD700, #FF5733, #00BFFF); /* Gold, Red-Orange, Blue */
       -webkit-background-clip: text; 
       color: transparent;
-      line-height: 1.2;
+      line-height: 1.1;
     ">
-      Robel Ermiyas
+      ROBEL ERMIYAS
     </span>
   </h2>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=RobelErmiyas&style=for-the-badge&color=8A2BE2" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=RobelErmiyas&style=flat-square&color=FF5733&label=Profile+Hits" alt="Profile views" />
   </p>
   
-  <p align="center">
+  <p align="center" style="margin-top: 20px;">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Building+the+Future;SWE+Student+%7C+Always+Learning;Machine+Learning+Explorer" 
+      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Building+the+Future;SWE+Student+%7C+Always+Learning;" 
       alt="Typing SVG" 
     />
   </p>
 </div>
 
 ---
-
 ## About Me
 
 > 🌍 Based in Addis Ababa, Ethiopia  
