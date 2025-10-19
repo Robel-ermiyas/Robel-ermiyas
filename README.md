@@ -133,8 +133,8 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobelErmiyas&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Robel's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobelErmiyas&theme=gotham&hide_border=false" alt="Robel's Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robel-ermiyas&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Robel's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robel-ermiyas&theme=gotham&hide_border=false" alt="Robel's Streak" height="180" />
 </div>
 
 ---
