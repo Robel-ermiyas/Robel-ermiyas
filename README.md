@@ -32,7 +32,7 @@
 ## About Me
 
 > 🌍 Based in Addis Ababa, Ethiopia  
-> 🎓 Software Engineering student specializing in **Data Engineering & Analytics**  
+> 🎓 Software Engineering student specializing in **Data  & AI Engineering**  
 > 💼 Skilled in designing end-to-end data pipelines, data warehousing, and data visualization solutions  
 > 🚀 Passionate about turning raw data into actionable insights  
 > 🧠 Also exploring **Machine Learning**  
